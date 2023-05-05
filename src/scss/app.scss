@@ -358,6 +358,7 @@ select {
 .agreements {
 	margin: 0 auto 50px;
 	max-width: 1214px;
+	user-select: none;
 
 	&__title {
 		margin: 16px 0 40px;
